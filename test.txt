@@ -1,4 +1,6 @@
 git is good tool;
 git is update;
 
-git modify;
+git modify
+
+Git has a mutable index called stage
