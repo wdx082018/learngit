@@ -1,0 +1,7 @@
+ssh-keygen -t rsa -C "wdx138861@163.com"
+
+
+
+--create
+git config --global user.name wdx082018
+git config --global user.email wdx138861@163.com
