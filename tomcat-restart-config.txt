@@ -1,0 +1,7 @@
+1.进入rc.local文件
+vim /etc/rc.local
+
+2.添加下面的命令即可
+export JAVA_HOME=/usr/java/jdk1.7.0_79
+su sprixin -c "/home/sprixin/tomcat/bin/startup.sh"
+exit 0
